@@ -2,8 +2,8 @@
 
 Repositório criado para submeter os códigos implementados na disciplína.
 
-##Estrutura de pastas
+## Estrutura de pastas
 
-*aulas/: armazena os códigos exemplos das aulas
+* aulas/: armazena os códigos exemplos das aulas
 
-*praticas/:armazena os códigos das atividades práticas.
+* praticas/:armazena os códigos das atividades práticas.
